@@ -1,5 +1,11 @@
 Atribuições de créditos de imagens aos autores:
 
+   - icone: 
+
+     - Autor: Nikiko
+
+     - Fonte: https://pixabay.com/pt/photos/canecas-copos-vazio-canecas-de-caf%C3%A9-459324/
+
    - imagem 1:
 
       - Autor: Pexels
@@ -37,3 +43,5 @@ Atribuições de créditos de imagens aos autores:
 
       - Fonte: [Sorvete - Pixabay] (https://pixabay.com/pt/photos/sorvete-sorvete-de-chocolate-para%C3%ADso-3762671/)
 
+
+  
